@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "reportCard",
+            "request": "launch",
+            "mainClass": "example.reportCard",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "report",
+            "request": "launch",
+            "mainClass": "report",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "reportCard",
+            "request": "launch",
+            "mainClass": "reportCard",
+            "projectName": "codespaces-blank_ba63f403"
+        }
+    ]
+}
